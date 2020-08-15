@@ -43,6 +43,8 @@ A piece of paper with tallies (or a phone) should be used to keep track of which
 |**Mission #4**|3|3|4|5|5|5|
 |**Mission #5**|3|4|4|5|5|5|
 
-> From the rules: The 4th Mission in games of 7+ players requires at least two failure cards to be a failed mission.
+> From the rules: Remember, the 4th Mission in games of 7+ players requires at least two failure cards to be a failed mission.
 
 ## Winning
+
+Winning is determined just as it is in the normal game: if the spies are able to sabotage 3 missions in total by the time the 5th mission is completed, then the spies win, otherwise the Resistance is successful!
